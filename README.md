@@ -5,7 +5,7 @@
 - :robot: Interesse nas área de inteligência artificial e automação e controle
 
 ##
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/paivaneto8190">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paivaneto8190&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaneto8190&layout=compact&langs_count=7&theme=radical"/>
