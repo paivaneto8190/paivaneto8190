@@ -1,7 +1,7 @@
 ### Olá, sou Paiva Neto
 
-- :school: Cursando o 9º período do Bacharelado em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN)
-- :robot: Ênfase em Engenharia Mecatrônica com interesse nas área de inteligência artificial e automação e controle
+- :school: Bacharel em Ciências e Tecnologia pela Universidade Federal do Rio Grande do Norte (UFRN)
+- :robot: Graduando em Engenharia Mecatrônica com interesse nas áreas de controle e sistemas embarcados
 - 🏎️ Gosto de assistir e jogar Fórmula 1 
 
 ##
