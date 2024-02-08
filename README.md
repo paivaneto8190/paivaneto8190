@@ -2,7 +2,7 @@
 
 - :school: Bacharel em Ciências e Tecnologia pela Universidade Federal do Rio Grande do Norte (UFRN)
 - :robot: Graduando em Engenharia Mecatrônica com interesse nas áreas de controle e sistemas embarcados
-- 🏎️ Gosto de assistir e jogar Fórmula 1 
+- 🏎️ Gosto de assistir Fórmula 1
 
 ##
 <div>
